@@ -1,0 +1,2 @@
+# Resumo do Projeto
+Este  projeto  tem  foco  em  modelagem  estatística,  mas  caso  queira  aprender  como trabalhar como mesmo dataset para modelagem preditiva (Machine Learning) usando o Scikit-learn ao invés do Statsmodels.
